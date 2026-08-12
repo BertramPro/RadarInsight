@@ -1,4 +1,5 @@
 # Generated experiments, caches, and temporary render output
+docs/
 artifacts/
 cache/
 tmp/
