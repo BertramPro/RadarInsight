@@ -1,0 +1,35 @@
+# Generated experiments, caches, and temporary render output
+artifacts/
+cache/
+tmp/
+tmp_docx_render/
+tmp_pdf_pages/
+.pytest_cache/
+
+# Python bytecode and test tooling
+__pycache__/
+*.py[cod]
+*.coverage
+htmlcov/
+
+# Trained models and numerical data caches
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.npy
+*.npz
+*.mat
+
+# Logs and local environment files
+*.log
+*.err.log
+.env
+.venv/
+venv/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
